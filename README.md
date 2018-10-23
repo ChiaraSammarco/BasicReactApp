@@ -9,7 +9,7 @@ Thanks to: https://www.valentinog.com/blog/react-webpack-babel/
 ```
 npm i -g webpack --save-dev
 npm i -g webpack-cli --save-dev
-npm i webpack-dev-server --save-dev
+npm i -g webpack-dev-server --save-dev
 npm i babel-loader@7 babel-core babel-preset-env babel-preset-react --save-dev
 npm i react react-dom --save-dev
 npm i html-webpack-plugin html-loader --save-dev
