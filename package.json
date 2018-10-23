@@ -1,0 +1,27 @@
+{
+  "name": "basicreactapp",
+  "version": "1.0.0",
+  "description": "starting code for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiaraSammarco/BasicReactApp.git"
+  },
+  "keywords": [
+    "react;",
+    "react-dom;",
+    "react-router;",
+    "webpack",
+    "4;",
+    "eslint"
+  ],
+  "author": "Chiara Sammarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiaraSammarco/BasicReactApp/issues"
+  },
+  "homepage": "https://github.com/ChiaraSammarco/BasicReactApp#readme"
+}
