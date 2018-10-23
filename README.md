@@ -13,7 +13,7 @@ npm i -g webpack --save-dev
 npm i -g webpack-cli --save-dev
 npm i -g webpack-dev-server --save-dev
 npm i babel-loader@7 babel-core babel-preset-env babel-preset-react --save-dev
-npm i react react-dom --save-dev
+npm i react react-dom 
 npm i html-webpack-plugin html-loader --save-dev
 ```
 
@@ -74,7 +74,17 @@ module.exports = {
 npm i -g eslint --save-dev
 npm i -g eslint-config-airbnb-base --save-dev
 npm i -g eslint-loader --save-dev
+npm i -g eslint-plugin-react --save-dev
+npm i -g babel-eslint --save-dev
+npm i -g eslint-plugin-import --save-dev
+
+npm i eslint --save-dev
+npm i eslint-config-airbnb-base --save-dev
+npm i eslint-loader --save-dev
+npm i eslint-plugin-react --save-dev
+npm i babel-eslint --save-dev
 npm i eslint-plugin-import --save-dev
+
 npm i eslint-plugin-node --save-dev
 npm i eslint-plugin-react --save-dev
 
