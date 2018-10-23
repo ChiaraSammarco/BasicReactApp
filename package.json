@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/ChiaraSammarco/BasicReactApp/issues"
   },
-  "homepage": "https://github.com/ChiaraSammarco/BasicReactApp#readme"
+  "homepage": "https://github.com/ChiaraSammarco/BasicReactApp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.22.0",
+    "webpack-cli": "^3.1.2"
+  }
 }
