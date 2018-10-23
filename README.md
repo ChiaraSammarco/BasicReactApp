@@ -1,7 +1,7 @@
 # BasicReactApp
 
 For steps explanation, go to: https://bitbucket.org/lavoro/reactstartingcode/src/master/
-
+Thanks to: https://www.valentinog.com/blog/react-webpack-babel/
 
 ## In console
 
