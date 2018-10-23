@@ -92,14 +92,16 @@ npm i husky
 npm i lint-staged
 ```
 
+### New files
 Added the following files:
 - .eslintrc.js
 - .editorconfig (From "Settings > Code Style > export" and then copy this file)
 
+### In package.json
 Add the following in scripts object of package.json:
 
 ```
-    "precommit": "npm run lint",
-    "lint": "eslint src",
-    "lint:fix": "eslint src --fix"
+"precommit": "npm run lint",
+"lint": "eslint src",
+"lint:fix": "eslint src --fix"
 ```
