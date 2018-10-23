@@ -91,3 +91,15 @@ npm i eslint-plugin-react --save-dev
 npm i husky
 npm i lint-staged
 ```
+
+Added the following files:
+- .eslintrc.js
+- .editorconfig (From "Settings > Code Style > export" and then copy this file)
+
+Add the following in scripts object of package.json:
+
+```
+    "precommit": "npm run lint",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+```
